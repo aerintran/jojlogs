@@ -1,12 +1,12 @@
 ---
 title: "megamind"
 date: 2023-02-23T15:28:34+08:00
-draft: 
+draft: false
 ---
 
 My professor sucks. She’s like really bad at teaching and boring. TOO BAD. The course material is subjective, the textbook and content is set therefore all you need to do is read it. If you fail a class because the teacher can’t teach, just admit that you are not smart enough. 
 
-Now this may sound rather harsh, HOWEVER, that is only if you consider intellect as the goal, only if you correlate intelligence with self-worth. I believe self-awareness to be the most important aspect of life, and I also believe I am not very smart. This is not a self-pitying or self-hating statement. It is not a bad thing to not be smart because I believe intelligence to be overrated. 
+Now this may sound rather harsh, HOWEVER, that is only if you consider intellect as the goal, only if you correlate intelligence with self-worth. I believe self-awareness to be the most important aspect of life, and I also believe I am not very smkjart. This is not a self-pitying or self-hating statement. It is not a bad thing to not be smart because I believe intelligence to be overrated. 
 
 Call it good grades, call it very introspective, faithful, resourceful, flexible, creative, having a 600+ chess.com rating, etc. These are all metacognitive abilities that have been valued at some point at varying relative degrees. This is because people have very much concerned themselves with the nasty goal of “being the best version of themselves”. Now the first question is: does this qualify the existence of alternate realities consisting of numerous versions of people? Maybe it would only be in imagination, but isn’t that enough to create an alternate dimension anyways? Think Harry Potter. Essentially fabricated from thinking really really hard somewhere in the UK and now it is a multi-billion dollar corporation (I have no source for this but I think it is true) and random ticktockers will chant mantras before bed every night in order to dream shift into Hogwarts wherein they have hypothetical relationships with characters. 
 
