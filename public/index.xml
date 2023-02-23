@@ -23,7 +23,7 @@ Now this may sound rather harsh, HOWEVER, that is only if you consider intellect
       <pubDate>Thu, 08 Dec 2022 23:21:47 +0800</pubDate>
       
       <guid>/blog/</guid>
-      <description>Blog post 1</description>
+      <description>Hello</description>
     </item>
     
     <item>
@@ -32,7 +32,8 @@ Now this may sound rather harsh, HOWEVER, that is only if you consider intellect
       <pubDate>Fri, 04 Nov 2022 13:20:02 +0800</pubDate>
       
       <guid>/currently/</guid>
-      <description>How do you deploy a site&amp;hellip;</description>
+      <description>How do you deploy a site with hugo
+Step 0 - Check status Run git status to know the status of changes Step 1 - Build the website in public folder Run hugo in your terminal Step 2 - Add untracked changes and files Run git add * to add untracked files Step 3 - Commit local changes Run git commit -m &#39;commit message&#39; Step 4 - Push changes to remote repository Run git push origin main</description>
     </item>
     
     <item>
@@ -50,7 +51,7 @@ Now this may sound rather harsh, HOWEVER, that is only if you consider intellect
       <pubDate>Tue, 25 Oct 2022 21:19:08 +0800</pubDate>
       
       <guid>/about/</guid>
-      <description>should not be held accountable. for anything.</description>
+      <description>Should not be held accountable. for anything.</description>
     </item>
     
     <item>
