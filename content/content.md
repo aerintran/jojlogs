@@ -1,6 +1,12 @@
-title: "content"
-date: 2022-10-25T21:19:08+08:00
+---
+title: "blog"
+date: 2022-12-08T23:21:47+08:00
 draft: false
+---
+baseURL: ""
+languageCode: en-us
+title: Your New Hugo Site
+theme: PaperMod
 
 menu:
   main:
@@ -25,8 +31,3 @@ params:
     enabled: true
     title: "Your Name"
     subtitle: "👷 Who you are | 💻 Major Student | 📚 NYU Shanghai"
-    buttons:
-      - name: Contact Me
-        url: "/contact"
-      - name: Github
-        url: "https://github.com/larry-lime"

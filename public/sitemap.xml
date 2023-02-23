@@ -14,6 +14,9 @@
     <loc>/blog/</loc>
     <lastmod>2022-12-08T23:21:47+08:00</lastmod>
   </url><url>
+    <loc>/content/</loc>
+    <lastmod>2022-12-08T23:21:47+08:00</lastmod>
+  </url><url>
     <loc>/currently/</loc>
     <lastmod>2022-11-04T13:20:02+08:00</lastmod>
   </url><url>
@@ -25,9 +28,6 @@
   </url><url>
     <loc>/posts/blog2/</loc>
     <lastmod>2022-10-25T21:02:05+08:00</lastmod>
-  </url><url>
-    <loc>/content/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
