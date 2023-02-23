@@ -7,7 +7,7 @@ cover:
     alt: 'blue'
     caption: 'blue'
 ---
-How do you deploy a site with hugo
+I know how to deploy a site with hugo now
 
 Step 0 - Check status
     Run `git status` to know the status of changes
