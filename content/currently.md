@@ -7,5 +7,5 @@ cover:
     alt: 'blue'
     caption: 'blue'
 ---
-how do you deploy a site...
+How do you deploy a site...
 
