@@ -23,7 +23,7 @@ Now this may sound rather harsh, HOWEVER, that is only if you consider intellect
       <pubDate>Thu, 08 Dec 2022 23:21:47 +0800</pubDate>
       
       <guid>/blog/</guid>
-      <description>Hello</description>
+      <description></description>
     </item>
     
     <item>
@@ -32,8 +32,7 @@ Now this may sound rather harsh, HOWEVER, that is only if you consider intellect
       <pubDate>Fri, 04 Nov 2022 13:20:02 +0800</pubDate>
       
       <guid>/currently/</guid>
-      <description>I know how to deploy a site with hugo now
-Step 0 - Check status Run git status to know the status of changes Step 1 - Build the website in public folder Run hugo in your terminal Step 2 - Add untracked changes and files Run git add * to add untracked files Step 3 - Commit local changes Run git commit -m &#39;commit message&#39; Step 4 - Push changes to remote repository Run git push origin main</description>
+      <description>jlog in progress: &amp;mdash; spirals</description>
     </item>
     
     <item>
@@ -51,7 +50,7 @@ Step 0 - Check status Run git status to know the status of changes Step 1 - Buil
       <pubDate>Tue, 25 Oct 2022 21:19:08 +0800</pubDate>
       
       <guid>/about/</guid>
-      <description>Should not be held accountable. for anything.</description>
+      <description>should not be held accountable. for anything.</description>
     </item>
     
     <item>
@@ -65,6 +64,17 @@ Goddesses
 Fetishized
 Worthless
 In Greek mythology Artemis, Athena, Aphrodite are beautiful and powerful women with men trailing at their feet. The female heroines of Shakespeare: Desdemona, Cordelia, and Hermia were strong-willed and brave. Or perhaps Madame Bovary and her promiscuous ankles clad in little black boots that click-clack down the hallways. But irl the average woman is only useful for reproductive purposes and household duties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/content/</guid>
+      <description>title: &amp;ldquo;content&amp;rdquo; date: 2022-10-25T21:19:08+08:00 draft: false
+menu: main: - name: Home url: / weight: 1 - name: About url: /about weight: 2 - name: Projects url: /projects weight: 3 # - name: Contact # url: /contact # weight: 3 # - name: Articles # url: /articles # weight: 4
+params: profileMode: enabled: true title: &amp;ldquo;Your Name&amp;rdquo; subtitle: &amp;ldquo;👷 Who you are | 💻 Major Student | 📚 NYU Shanghai&amp;rdquo; buttons: - name: Contact Me url: &amp;ldquo;/contact&amp;rdquo; - name: Github url: &amp;ldquo;https://github.</description>
     </item>
     
   </channel>

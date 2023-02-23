@@ -26,6 +26,9 @@
     <loc>/posts/blog2/</loc>
     <lastmod>2022-10-25T21:02:05+08:00</lastmod>
   </url><url>
+    <loc>/content/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/tags/</loc>
